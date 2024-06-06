@@ -2,7 +2,7 @@
 $servername = "localhost";
 $username = "userdb";
 $password = "databaza";
-$dbname = "northwindmysql"; 
+$dbname = "northwind"; 
 
 
 $conn = new mysqli($servername, $username, $password, $dbname);
